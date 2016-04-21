@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IMKit/IMKit.iml" filepath="$PROJECT_DIR$/IMKit/IMKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Somoplay.iml" filepath="$PROJECT_DIR$/Somoplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eadate/eadate.iml" filepath="$PROJECT_DIR$/eadate/eadate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eafoodie/eafoodie.iml" filepath="$PROJECT_DIR$/eafoodie/eafoodie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/somolib/somolib.iml" filepath="$PROJECT_DIR$/somolib/somolib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/somotab/somotab.iml" filepath="$PROJECT_DIR$/somotab/somotab.iml" />
+    </modules>
+  </component>
+</project>

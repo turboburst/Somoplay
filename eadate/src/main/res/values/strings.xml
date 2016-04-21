@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Eadate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="colorbox">ColorBox</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="camera">Camera</string>
+    <string name="reset">Reset</string>
+    <string name="setting">Setting</string>
+
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_choose_screen">Available Screen</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="login_button_label">Login</string>
+    <string name="sign_up_text">Sign Up!</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="select_all">All</string>
+    <string name="select_none">None</string>
+    <string name="sign_up_error_message">Please make sure you enter a username, password, and email address.</string>
+    <string name="sign_up_error_title">Oops!</string>
+
+    <string name="login_error_message">Please make sure you enter a username and password.</string>
+    <string name="login_error_title">Oops!</string>
+
+    <string name="menu_logout_label">Logout</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="remember_percent_title">Remember Tip Percent</string>
+    <string name="remember_percent_summary">Remembers the tip percent for the most recent calculation.</string>
+
+    <string name="rounding_title">Rounding?</string>
+    <string name="rounding_summary">Sets the rounding option for the calculation.</string>
+    <string-array name="rounding_keys">
+        <item >None</item>
+        <item >Tip</item>
+        <item >Total</item>
+    </string-array>
+    <string-array name="rounding_values">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string name="rounding_default">0</string>
+    <string name="title_activity_upload_choose_screen">UploadChooseScreen</string>
+    <string name="title_activity_picture_zoom">PictureZoom</string>
+    <string name="title_activity_forget_password">ForgetPasswordActivity</string>
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':eadate', ':somolib', ':somotab', ':eafoodie', ':IMKit'
